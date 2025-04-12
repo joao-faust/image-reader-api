@@ -1,7 +1,12 @@
 # Image Reader
 
-Image Reader is an API that reads image content. This API uses Node.js, Express
-and Tesseract.
+Image Reader is an API that reads image content. It's really useful when the copy function is disabled on the website you're visiting.
+
+## Used technologies
+
+- Node.js;
+- Express;
+- Tesseract.
 
 ## Example
 
