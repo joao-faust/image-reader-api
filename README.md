@@ -8,6 +8,12 @@ Image Reader is an API that reads image content. It's useful when the copy funct
 - Express;
 - Tesseract.
 
+## How to start the API
+
+```bash
+npm start
+```
+
 ## Example
 
 ![Api Call Example](./assets/api-call-example.png)
