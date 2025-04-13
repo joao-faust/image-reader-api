@@ -14,7 +14,7 @@ Image Reader is an API that reads image content. It's useful when the copy funct
 npm start
 ```
 
-## Example
+## How to call the API
 
 ![Api Call Example](./assets/api-call-example.png)
 
