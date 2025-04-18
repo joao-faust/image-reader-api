@@ -2,7 +2,7 @@ const multer = require("multer");
 const Tesseract = require("tesseract.js");
 const { Router } = require("express");
 const { unlink } = require("fs/promises");
-const imageUpload = require("../utils/imageUpload");
+const imageUpload = require("../services/imageUpload");
 const CustomError = require("../classes/CustomError");
 
 const router = Router();
