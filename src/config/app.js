@@ -3,7 +3,7 @@ const cors = require("cors");
 const helmet = require("helmet");
 const morgan = require("morgan");
 const { rateLimit } = require("express-rate-limit");
-const router = require("../router");
+const router = require("../routers");
 
 const app = express();
 
